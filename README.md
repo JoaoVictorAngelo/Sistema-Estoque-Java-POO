@@ -74,8 +74,12 @@ git https://github.com/JoaoVictorAngelo/Sistema-Estoque-Java-POO.git
 
 3. Execute a classe `Main.java`.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-**João Victor Angelo**
+**João Victor Angelo RA: 25002412**
+**Gustavo Henrique Freitas RA: 26000983**
+**Victor Juliano Zoqueti RA: 26000821**
+**Breno Sagiorato RA: 26001560**
+**Daniel Gabriel Patrone de Oliveira RA: 26000434**
 
 Projeto acadêmico desenvolvido para aplicação prática dos conceitos de Java e Programação Orientada a Objetos.
